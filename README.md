@@ -1,5 +1,6 @@
 
-> Super secret knock-passcode system installed at my high school's engineering lab. 
+> Super secret knock-passcode system installed at my high school's engineering lab.
+> Go to [main.ts](https://github.com/Essy1245/engilab_doorman/blob/master/main.ts) for the "actual" code behind this. 
 
 > Open this page at [https://essy1245.github.io/doorknock_d120/](https://essy1245.github.io/engilab_doorman)
 
