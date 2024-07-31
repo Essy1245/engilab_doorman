@@ -1,4 +1,6 @@
 
+> Super secret knock-passcode system installed at my high school's engineering lab. 
+
 > Open this page at [https://essy1245.github.io/doorknock_d120/](https://essy1245.github.io/engilab_doorman)
 
 ## Use as Extension
