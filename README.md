@@ -1,4 +1,4 @@
-
+DISCONTINUED PROJECT. I graduated that school. 
 > Super secret knock-passcode system installed at my high school's engineering lab.
 > Go to [main.ts](https://github.com/Essy1245/engilab_doorman/blob/master/main.ts) for the "actual" code behind this. 
 
